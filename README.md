@@ -9,4 +9,4 @@ and web development (HTML, CSS, JavaScript), I focus on applying AI-driven solut
 
 
   <br>
-  <a href="www.linkedin.com/in/fortune-siwakwi-082a64258"><img alt="fff" src="https://github.com/user-attachments/assets/e6883368-9e06-423c-bcc5-35be34edad30"></a>
+  <a href="www.linkedin.com/in/fortune-siwakwi><img alt="fff" src="https://github.com/user-attachments/assets/e6883368-9e06-423c-bcc5-35be34edad30"></a>
